@@ -1,0 +1,335 @@
+13966(5 , 2)	 A teaching method for memory based control 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+********************************MMDW********************************
+13960	 Using a case base of surfaces to speed up reinforcement learning 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+39403	 Auto exploratory av erage reward reinforcement learning 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+28387	 Pack Kaelbling On the complexity of solving Markov decision problems 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+6170	 SP 1996 Improving policies without measuring merits 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+136665	 The Complexity of Real time Search 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+*********************************DW*********************************
+13960	 Using a case base of surfaces to speed up reinforcement learning 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+1111614	SaxEx a case-based reasoning system for generating expressive musical performances  	/Artificial_Intelligence/Machine_Learning/Case-Based/
+18251	 Lazy acquisition of place knowledge 	/Artificial_Intelligence/Machine_Learning/Case-Based/
+1106052	Lazy Acquisition of Place Knowledge  	/Artificial_Intelligence/Machine_Learning/Case-Based/
+130	 Ok Scaling up average reward reinforcement learning by approx imating the domain models and the value function 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+
+
+
+1110947(5 , 2)	  	/Artificial_Intelligence/Machine_Learning/Case-Based/
+********************************MMDW********************************
+22875	 Inductive learning and case based reasoning 	/Artificial_Intelligence/Machine_Learning/Case-Based/
+10183	 Concept learning and Heuristic Classification in Weak Theory Domains 	/Artificial_Intelligence/Machine_Learning/Case-Based/
+1120713	A Computational Model of Ratio Decidendi  	/Artificial_Intelligence/Machine_Learning/Case-Based/
+1114336	Four Challenges for a Computational Model of Legal Precedent  	/Artificial_Intelligence/Machine_Learning/Case-Based/
+259772	 Reasoning with portions of precedents 	/Artificial_Intelligence/Machine_Learning/Case-Based/
+*********************************DW*********************************
+22875	 Inductive learning and case based reasoning 	/Artificial_Intelligence/Machine_Learning/Case-Based/
+46536	 Goal directed Classification Using Linear Machine Decision Trees 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+31097	 What DaimlerBenz has learned as an industrial partner from the machine learning project Statlog Working Notes for Applying Machine Learning in Practice 	/Artificial_Intelligence/Machine_Learning/Case-Based/
+3243	 A system for induction of oblique decision trees 	/Artificial_Intelligence/Machine_Learning/Theory/
+854434	 Predicting lifetimes in dynamically allocated memory 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+
+
+
+85299(4 , 1)	 Learning by error driven decomposition 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+********************************MMDW********************************
+1031453	A neural network pole balancer that learns and operates on a real robot in real time 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+1136422	Understanding Musical Sound with Forward Models and Physical Models  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+1128839	Requirements and use of neural networks for industrial appli-  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+782486	 Living in a partially structured environment How to bypass the limitation of classical reinforcement techniques 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+1130600	Adaptive state space quantisation: adding and removing neurons  	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+*********************************DW*********************************
+575292	 Representation and evolution of neural networks 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+23258	 Exploration and model building in mobile robot domains 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+1131734	Feature selection through Functional Links with Evolutionary Computation for Neural Networks  	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+299197	 TD Learning of Game Evaluation Functions with Hierarchical Neural Architectures 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+18251	 Lazy acquisition of place knowledge 	/Artificial_Intelligence/Machine_Learning/Case-Based/
+
+
+
+1136422(5 , 2)	Understanding Musical Sound with Forward Models and Physical Models  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+********************************MMDW********************************
+1128839	Requirements and use of neural networks for industrial appli-  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+1031453	 and Deva Johnam A neural network pole balancer that learns and operates on a real robot in real time 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+1365	 Self Organization and Associative Memory 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+948846	 Limitations of self organizing maps for vector quantization and multidimensional scaling 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+949318	 a self organizing feature map for sequences 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+*********************************DW*********************************
+1031453	 and Deva Johnam A neural network pole balancer that learns and operates on a real robot in real time 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+188471	 Adaptive State Space Quantization for Reinforcement Learning of Collision Free Navigation 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+628500	 Learning to avoid collisions a reinforcement learning paradigm for mobile robot navigation 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+948846	 Limitations of self organizing maps for vector quantization and multidimensional scaling 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+1130600	Adaptive state space quantisation: adding and removing neurons  	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+
+
+ßßßßßßßßßßßß
+161221(5 , 2)	 A local learning algorithm for dynamic feedforward and recurrent networks 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+********************************MMDW********************************
+1128839	Requirements and use of neural networks for industrial appli-  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+1031453	 and Deva Johnam A neural network pole balancer that learns and operates on a real robot in real time 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+85299	 Learning by error driven decomposition 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+782486	 Living in a partially structured environment How to bypass the limitation of classical reinforcement techniques 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+1153922	Locally Connected Recurrent Networks  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+*********************************DW*********************************
+1153922	Locally Connected Recurrent Networks  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+28249	 Truncating temporal differences On the efficient implementation of TD for reinforcement learning 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+1129096	AVERAGED REWARD REINFORCEMENT LEARNING APPLIED TO FUZZY RULE TUNING  	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+1116347	Fast Online Q()  	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+231198	 A fixed size storage O n 3 time complexity learning algorithm for fully recurrent continually running networks 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+
+
+
+3218(5 , 2)	 Rule induction with CN2 some recent improvements 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+********************************MMDW********************************
+1110426	Incremental Reduced Error Pruning  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+22431	 An investigation of noise tolerant relational concept learning algorithms 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+49843	 Fossil A robust relational learner 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1153866	Learning Decision Trees from Decision Rules:  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+55403	 R S and Imam I F On Learning Decision Structures 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+*********************************DW*********************************
+35070	 The RISE system Conquering without separating 	/Artificial_Intelligence/Machine_Learning/Case-Based/
+1153264	  	/Artificial_Intelligence/Machine_Learning/Theory/
+277263	 Machine learning applied to diagnosis of sport injuries 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+66782	 Using qualitative models to guide inductive learning 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1120169	What do Constructive Learners Really Learn?  	/Artificial_Intelligence/Machine_Learning/Theory/
+
+
+
+20942(4 , 1)	 in press Decision tree induction based on efficient tree restructuring 	/Artificial_Intelligence/Machine_Learning/Theory/
+********************************MMDW********************************
+3232	 The Power of Decision Tables 	/Artificial_Intelligence/Machine_Learning/Theory/
+1128536	MLC Tutorial A Machine Learning library of C classes.  	/Artificial_Intelligence/Machine_Learning/Theory/
+1106330	Induction of Condensed Determinations  	/Artificial_Intelligence/Machine_Learning/Case-Based/
+20850	 Compression Based Feature Subset Selection 	/Artificial_Intelligence/Machine_Learning/Theory/
+636098	 NP Completeness of Searches for Smallest Possible Feature Sets 	/Artificial_Intelligence/Machine_Learning/Theory/
+*********************************DW*********************************
+3232	 The Power of Decision Tables 	/Artificial_Intelligence/Machine_Learning/Theory/
+6217	 R S Whitehead S D 1993 Online learning with random representations 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+31097	 What DaimlerBenz has learned as an industrial partner from the machine learning project Statlog Working Notes for Applying Machine Learning in Practice 	/Artificial_Intelligence/Machine_Learning/Case-Based/
+46536	 Goal directed Classification Using Linear Machine Decision Trees 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+180399	 An inductive learning approach to prognostic prediction 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+
+
+ßßßßßßßßßßßßßß
+1116347(5 , 2)	Fast Online Q()  	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+********************************MMDW********************************
+976334	 Applying online search to reinforcement learning 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+28485	 The efficient learning of multiple task sequences 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+168410	 A modular Q learning architecture for manipulator task decomposition 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+28249	 Truncating temporal differences On the efficient implementation of TD for reinforcement learning 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+23258	 Exploration and model building in mobile robot domains 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+*********************************DW*********************************
+28249	 Truncating temporal differences On the efficient implementation of TD for reinforcement learning 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+782486	 Living in a partially structured environment How to bypass the limitation of classical reinforcement techniques 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+293285	 Why experimentation can be better than perfect guidance 	/Artificial_Intelligence/Machine_Learning/Theory/
+1129096	AVERAGED REWARD REINFORCEMENT LEARNING APPLIED TO FUZZY RULE TUNING  	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+1031453	 and Deva Johnam A neural network pole balancer that learns and operates on a real robot in real time 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+
+
+ßßßßßßßßßßßßß
+129897(5 , 2)	 The out of bootstrap method for model averaging and selection 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+********************************MMDW********************************
+137873	 Stacked density estimation 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+3187	 A reference Bayesian test for nested hypotheses and its relationship to the Schwarz criterion 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+129896	 Accounting for model uncertainty in survival analysis improves predictive performance with Discussion In Bayesian Statistics 5 J M 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+423463	 and Sylvia Richardson 1995 Model selection for generalized linear models via GLIB with application to epidemiology In Bayesian Biostatistics D A 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+561364	 Markov Chain Monte Carlo Model Determination for Hierarchical and Graphical Models 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+*********************************DW*********************************
+1133028	An Efficient Method To Estimate Bagging's Generalization Error  	/Artificial_Intelligence/Machine_Learning/Theory/
+1130934	82 Lag-space estimation in time-series modelling keep track of cases where the estimation of P	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+3187	 A reference Bayesian test for nested hypotheses and its relationship to the Schwarz criterion 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+154982	 Bias variance and prediction error for classification rules 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+5055	 W S Boosting the Margin A New Explanation for the Effectiveness of Voting Methods 	/Artificial_Intelligence/Machine_Learning/Theory/
+
+
+
+1104749(4 , 1)	  	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+********************************MMDW********************************
+50807	 Unsupervised learning with the soft means algorithm 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+270085	 to appear When gravity fails local search topology 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+307656	 Plateaus and plateau search in boolean satisfi ability problems When to give up searching and start again 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+1118347	Even with Arbitrary Transfer Functions, RCC Cannot Compute Certain FSA  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+102061	 Simulating quadratic dynamical systems is Pspace complete 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+*********************************DW*********************************
+50807	 Unsupervised learning with the soft means algorithm 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+1131414	PUSH-PULL SHUNTING MODEL OF GANGLION CELLS Simulations of X and Y retinal ganglion cell behavior	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+648369	 Toward a unified theory of spatiotemporal processing in the retina 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+29738	 An Optimum Decision Rule for Pattern Recognition 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+155277	 On Functional Relation between Recognition Error and Class Selective Reject 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+
+
+
+83461(5 , 2)	 DLAB A declarative language bias formalism 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+********************************MMDW********************************
+954315	 Inductive database design 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1155073	Learning with Abduction  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+20857	 The ilp description learning problem Towards a genearl model leve definition of data mining in ilp 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1127863	Application of Clausal Discovery to Temporal Databases  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+72908	 Applications of a logical discovery engine 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+*********************************DW*********************************
+954315	 Inductive database design 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1155073	Learning with Abduction  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+17811	 Genetic algorithms as a tool for feature selection in machine learning 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+1107136	Feature Selection Methods: Genetic Algorithms vs. Greedy-like Search  	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+63486	 Evaluation and Selection of Biases in Machine Learning 	/Artificial_Intelligence/Machine_Learning/Theory/
+
+
+
+50807(4 , 1)	 Unsupervised learning with the soft means algorithm 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+********************************MMDW********************************
+1104749	Learning Where To Go without Knowing Where That Is: The Acquisition of a Non-reactive Mobot	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+270085	 to appear When gravity fails local search topology 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+307656	 Plateaus and plateau search in boolean satisfi ability problems When to give up searching and start again 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+1118347	Even with Arbitrary Transfer Functions, RCC Cannot Compute Certain FSA  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+102061	 Simulating quadratic dynamical systems is Pspace complete 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+*********************************DW*********************************
+1104749	Learning Where To Go without Knowing Where That Is: The Acquisition of a Non-reactive Mobot	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+1131414	PUSH-PULL SHUNTING MODEL OF GANGLION CELLS Simulations of X and Y retinal ganglion cell behavior	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+648369	 Toward a unified theory of spatiotemporal processing in the retina 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+29738	 An Optimum Decision Rule for Pattern Recognition 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+155277	 On Functional Relation between Recognition Error and Class Selective Reject 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+
+
+
+1109199(5 , 1)	  	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+********************************MMDW********************************
+132806	 Using marker based genetic encoding of neural networks to evolve finite state behaviour 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+45599	 Grounding robotic control with genetic neural net works 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+148170	 Learning monitoring strategies A difficult genetic programming application 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+35	 Genetic Algorithms in Search Optimization and Machine Learning 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+593260	 Evolving graphs and networks with edge encoding Preliminary report 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+*********************************DW*********************************
+148170	 Learning monitoring strategies A difficult genetic programming application 	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+168332	 A comparison of Q learning and classifier systems in From animals to animats 3 D 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+1133469	XCS Classifier System Reliably Evolves Accurate, Complete, and Minimal Representations for Boolean Functions more complex	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+1152740	Model of the Environment to Avoid Local Learning  	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+86359	 Evolving Optimal Populations with XCS Classifier Systems 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+
+
+
+734406(5 , 2)	 A model of rapid memory formation in the hippocampal system 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+********************************MMDW********************************
+1135115	Rapid learning of binding-match and binding-error detector circuits via long-term potentiation  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+395725	 Plate Distributed Representations and Nested Compositional Structure 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+16470	 Giles P C and Collingwood Finite state machines and recurrent neural networks automata and dynamical systems approaches 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+12337	 A unified gradient descent clustering algorithm architecture for finite state machine induction 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+51831	 Using Prior Knowledge in a NNDPA to Learn Context Free Languages 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+*********************************DW*********************************
+1135115	Rapid learning of binding-match and binding-error detector circuits via long-term potentiation  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+395725	 Plate Distributed Representations and Nested Compositional Structure 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+1130653	Functional Programming by Analogy  	/Artificial_Intelligence/Machine_Learning/Case-Based/
+1138091	Use of Analogy in Automated Theorem Proving  	/Artificial_Intelligence/Machine_Learning/Case-Based/
+566653	 Structural evaluation of analogies 	/Artificial_Intelligence/Machine_Learning/Case-Based/
+
+
+
+653628(5 , 1)	 The Predictability of Data Values 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+********************************MMDW********************************
+1133930	Data Value Prediction Methods and Performance  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+263482	 Learning by Refining Algorithm Sketches 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+263486	 Architecture for Iterative Learning of R ecursive Definitions 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1118302	Learning Recursion with Iterative Bootstrap Induction (Extended Abstract)  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1114512	Integrity Constraints in ILP using a Monte Carlo approach  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+*********************************DW*********************************
+1133930	Data Value Prediction Methods and Performance  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+628458	 Optimising Local Hebbian Learning Use the ffi rule 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+628459	 CNN a neural architecture that learns multiple transformations of spatial representations 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+1113084	In Search Of Articulated Attractors  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+232860	 On the computational utility of consciousness 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+
+
+
+520471(5 , 1)	 The Arguments of Newly Invented Predicates in ILP 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+********************************MMDW********************************
+1125953	Language Series Revisited: The Complexity of Hypothesis Spaces in ILP  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1153866	Learning Decision Trees from Decision Rules:  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1128531	LEARNING FOR DECISION MAKING: The FRD Approach and a Comparative Study  Machine Learning and Inference Laboratory  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+55403	 R S and Imam I F On Learning Decision Structures 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+133615	 The Estimation of Probabilities in Attribute Selection Measures for Decision Structure Induction in Proceeding of the European Summer School on Machine Learning 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+*********************************DW*********************************
+1125953	Language Series Revisited: The Complexity of Hypothesis Spaces in ILP  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1128256	Where Do SE-trees Perform? (Part I)  	/Artificial_Intelligence/Machine_Learning/Theory/
+11337	 An Empirical Analysis of the Benefit of Decision Tree Size Biases as a Function of Concept Distribution 	/Artificial_Intelligence/Machine_Learning/Theory/
+1272	 Induction of Decision Trees 	/Artificial_Intelligence/Machine_Learning/Theory/
+1123867	A Study of Maximal-Coverage Learning Algorithms  	/Artificial_Intelligence/Machine_Learning/Theory/
+
+
+
+189574(5 , 2)	 Theory refinement on Bayesian networks 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+********************************MMDW********************************
+1123689	A Parallel Learning Algorithm for Bayesian Inference Networks  	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+39890	 A theory of inferred causation 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+242663	 Two algorithms for inducing structural equation models from data 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+51045	 Experiments with a regression based causal induction algorithm EKSL memo number 94 33 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+1154233	Bayesian Networks  	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+*********************************DW*********************************
+1123689	A Parallel Learning Algorithm for Bayesian Inference Networks  	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+23738	 A Theory of Learning Classification Rules 	/Artificial_Intelligence/Machine_Learning/Theory/
+1153064	Stochastic Logic Programs  	/Artificial_Intelligence/Machine_Learning/Theory/
+39890	 A theory of inferred causation 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+101662	 Learning from positive data 	/Artificial_Intelligence/Machine_Learning/Theory/
+
+
+
+1140289(5 , 2)	  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+********************************MMDW********************************
+853118	 On Langevin Updating in Multilayer Perceptrons 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+853155	 Mass Reconstruction with a Neural Network 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+853115	 Finding Gluon Jets with a Neural trigger 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+853114	 Using Neural Networks to Identify Jets Nucl 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+853116	 Self organizing Networks for Extracting Jet Features 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+*********************************DW*********************************
+853118	 On Langevin Updating in Multilayer Perceptrons 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+62347	 Embodiment and manipulation learning process for a humanoid hand 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+1108209	Evolutionary Learning of the Crossover Operator  	/Artificial_Intelligence/Machine_Learning/Genetic_Algorithms/
+118559	 On line adaptation of a signal predistorter through dual reinforcement learning 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+7022	 Modularity in a connectionist model of morphology acquisition 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+
+
+
+1111304(5 , 2)	  	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+********************************MMDW********************************
+75674	 Exloration bonuses and dual control 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+195361	 On step size and bias in temporal difference learning 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+1104182	Finding Promising Exploration Regions by Weighting Expected Navigation Costs continuous environments, some first-order approximations to	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+1118092	Q2: Memory-based active learning for optimizing noisy continuous functions learning field expands beyond prediction and	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+1126029	Exploration in Active Learning  	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+*********************************DW*********************************
+195361	 On step size and bias in temporal difference learning 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+105899	 A mixture model system for medical and machine diagnosis 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+4329	 Supervised learning from incomplete data via an EM approach 	/Artificial_Intelligence/Machine_Learning/Probabilistic_Methods/
+1110768	Recurrent Neural Networks for Missing or Asynchronous Data  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+218410	 Explanation based learning A comparison of symbolic and neural network approaches 	/Artificial_Intelligence/Machine_Learning/Reinforcement_Learning/
+
+ßßßßßßßßßß
+1133930(5 , 1)	Data Value Prediction Methods and Performance  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+********************************MMDW********************************
+653628	 The Predictability of Data Values 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+263482	 Learning by Refining Algorithm Sketches 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+263486	 Architecture for Iterative Learning of R ecursive Definitions 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1118302	Learning Recursion with Iterative Bootstrap Induction (Extended Abstract)  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1114512	Integrity Constraints in ILP using a Monte Carlo approach  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+*********************************DW*********************************
+653628	 The Predictability of Data Values 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+628458	 Optimising Local Hebbian Learning Use the ffi rule 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+1113084	In Search Of Articulated Attractors  	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+628459	 CNN a neural architecture that learns multiple transformations of spatial representations 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+232860	 On the computational utility of consciousness 	/Artificial_Intelligence/Machine_Learning/Neural_Networks/
+
+
+
+1125953(5 , 2)	Language Series Revisited: The Complexity of Hypothesis Spaces in ILP  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+********************************MMDW********************************
+520471	 The Arguments of Newly Invented Predicates in ILP 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1128531	LEARNING FOR DECISION MAKING: The FRD Approach and a Comparative Study  Machine Learning and Inference Laboratory  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+55403	 R S and Imam I F On Learning Decision Structures 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+133615	 The Estimation of Probabilities in Attribute Selection Measures for Decision Structure Induction in Proceeding of the European Summer School on Machine Learning 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1153866	Learning Decision Trees from Decision Rules:  	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+*********************************DW*********************************
+520471	 The Arguments of Newly Invented Predicates in ILP 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+1128256	Where Do SE-trees Perform? (Part I)  	/Artificial_Intelligence/Machine_Learning/Theory/
+11337	 An Empirical Analysis of the Benefit of Decision Tree Size Biases as a Function of Concept Distribution 	/Artificial_Intelligence/Machine_Learning/Theory/
+1272	 Induction of Decision Trees 	/Artificial_Intelligence/Machine_Learning/Theory/
+93923	 Inductive constraint logic and the mutagenesis problem 	/Artificial_Intelligence/Machine_Learning/Rule_Learning/
+
+
+

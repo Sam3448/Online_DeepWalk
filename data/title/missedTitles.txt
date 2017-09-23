@@ -1,0 +1,45 @@
+1154233	Bayesian Networks  
+1153866	Learning Decision Trees from Decision Rules:  
+1153922	Locally Connected Recurrent Networks  
+1127863	Application of Clausal Discovery to Temporal Databases  
+1135115	Rapid learning of binding-match and binding-error detector circuits via long-term potentiation  
+1114512	Integrity Constraints in ILP using a Monte Carlo approach  
+1155073	Learning with Abduction  
+1104182	Finding Promising Exploration Regions by Weighting Expected Navigation Costs continuous environments, some first-order approximations to
+1138091	Use of Analogy in Automated Theorem Proving  
+1106052	Lazy Acquisition of Place Knowledge  
+1153064	Stochastic Logic Programs  
+1130653	Functional Programming by Analogy  
+1131734	Feature selection through Functional Links with Evolutionary Computation for Neural Networks  
+1129096	AVERAGED REWARD REINFORCEMENT LEARNING APPLIED TO FUZZY RULE TUNING  
+1107136	Feature Selection Methods: Genetic Algorithms vs. Greedy-like Search  
+1128256	Where Do SE-trees Perform? (Part I)  
+1106330	Induction of Condensed Determinations  
+1133930	Data Value Prediction Methods and Performance  
+1118347	Even with Arbitrary Transfer Functions, RCC Cannot Compute Certain FSA  
+1116347	Fast Online Q()  
+1120713	A Computational Model of Ratio Decidendi  
+1110768	Recurrent Neural Networks for Missing or Asynchronous Data  
+1128531	LEARNING FOR DECISION MAKING: The FRD Approach and a Comparative Study  Machine Learning and Inference Laboratory  
+1130934	82 Lag-space estimation in time-series modelling keep track of cases where the estimation of P
+1130600	Adaptive state space quantisation: adding and removing neurons  
+1113084	In Search Of Articulated Attractors  
+1118092	Q2: Memory-based active learning for optimizing noisy continuous functions learning field expands beyond prediction and
+1152740	Model of the Environment to Avoid Local Learning  
+1128536	MLC Tutorial A Machine Learning library of C classes.  
+1128839	Requirements and use of neural networks for industrial appli-  
+1114336	Four Challenges for a Computational Model of Legal Precedent  
+1111614	SaxEx a case-based reasoning system for generating expressive musical performances  
+1131414	PUSH-PULL SHUNTING MODEL OF GANGLION CELLS Simulations of X and Y retinal ganglion cell behavior
+1133028	An Efficient Method To Estimate Bagging's Generalization Error  
+1108209	Evolutionary Learning of the Crossover Operator  
+1104749	Learning Where To Go without Knowing Where That Is: The Acquisition of a Non-reactive Mobot
+1133469	XCS Classifier System Reliably Evolves Accurate, Complete, and Minimal Representations for Boolean Functions more complex
+1123689	A Parallel Learning Algorithm for Bayesian Inference Networks  
+1123867	A Study of Maximal-Coverage Learning Algorithms  
+1118302	Learning Recursion with Iterative Bootstrap Induction (Extended Abstract)  
+1126029	Exploration in Active Learning  
+1125953	Language Series Revisited: The Complexity of Hypothesis Spaces in ILP  
+1110426	Incremental Reduced Error Pruning  
+1136422	Understanding Musical Sound with Forward Models and Physical Models  
+1120169	What do Constructive Learners Really Learn?  
